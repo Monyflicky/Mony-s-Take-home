@@ -1,0 +1,84 @@
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\appsettings.Development.json
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\appsettings.json
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.exe
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.deps.json
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.runtimeconfig.json
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.runtimeconfig.dev.json
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.dll
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\ref\MortgageCalculator.API.dll
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.pdb
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.AssemblyReference.cache
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.GeneratedMSBuildEditorConfig.editorconfig
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.AssemblyInfoInputs.cache
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.AssemblyInfo.cs
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.CoreCompileInputs.cache
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.MvcApplicationPartsAssemblyInfo.cs
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.MvcApplicationPartsAssemblyInfo.cache
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\scopedcss\bundle\MortgageCalculator.API.styles.css
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\staticwebassets\MortgageCalculator.API.StaticWebAssets.Manifest.cache
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.RazorTargetAssemblyInfo.cache
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.CopyComplete
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.dll
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\ref\MortgageCalculator.API.dll
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.pdb
+H:\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.genruntimeconfig.cache
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.exe
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.deps.json
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.runtimeconfig.json
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.runtimeconfig.dev.json
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.dll
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\ref\MortgageCalculator.API.dll
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.pdb
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.AssemblyReference.cache
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.AssemblyInfoInputs.cache
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.AssemblyInfo.cs
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.CoreCompileInputs.cache
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\scopedcss\bundle\MortgageCalculator.API.styles.css
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\staticwebassets\MortgageCalculator.API.StaticWebAssets.Manifest.cache
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.RazorTargetAssemblyInfo.cache
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.CopyComplete
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.dll
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\ref\MortgageCalculator.API.dll
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.pdb
+C:\Users\Hp_ProDesk\OneDrive\Online Desk for me\monyflickyoloo\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.genruntimeconfig.cache
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.exe
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.deps.json
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.runtimeconfig.json
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.runtimeconfig.dev.json
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.dll
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\MortgageCalculator.API.pdb
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.AssemblyReference.cache
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.AssemblyInfoInputs.cache
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.AssemblyInfo.cs
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.CoreCompileInputs.cache
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\scopedcss\bundle\MortgageCalculator.API.styles.css
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\staticwebassets\MortgageCalculator.API.StaticWebAssets.Manifest.cache
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.RazorTargetAssemblyInfo.cache
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.csproj.CopyComplete
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.dll
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\refint\MortgageCalculator.API.dll
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.pdb
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\MortgageCalculator.API.genruntimeconfig.cache
+C:\Users\Monyflicky Oloo\Documents\MorgageCalculator\MortgageCalculator.API\obj\Debug\net5.0\ref\MortgageCalculator.API.dll
